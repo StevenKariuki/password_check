@@ -1,0 +1,7 @@
+root
+admin
+dbadmin
+user12345
+steven
+user1
+admin2023
